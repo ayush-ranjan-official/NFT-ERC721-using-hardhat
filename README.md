@@ -1,5 +1,7 @@
 # NFT-ERC721-using-hardhat
 
+- NFT Contract Address: `0xDe249318376AD43e9519d54F160cAee0eF972FD5`
+
 - To setup a Hardhat project, Open up the project directory in terminal and execute these commands
 
 `npm init --yes`
